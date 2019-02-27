@@ -90,3 +90,5 @@
     width: 32.3%;
     height: 15vh;
 }
+
+@media screen and (max-width:480px) {}
